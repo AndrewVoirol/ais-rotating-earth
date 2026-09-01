@@ -1,0 +1,54 @@
+{
+  "project": {
+    "name": "ais-rotating-earth",
+    "slug": "ais-rotating-earth",
+    "description": "A dot-matrix 3D Earth visualization built with custom GLSL shaders. Continents rendered as a grid of white dots, coastlines traced with real-time edge detection, wrapped in a subtle wireframe graticule.",
+    "category": "3d-visualization",
+    "tags": [
+      "@react-three/fiber",
+      "@react-three/drei",
+      "three"
+    ],
+    "status": "shipped",
+    "aistudioUrl": ""
+  },
+  "tech": {
+    "framework": "vite",
+    "frameworkVersion": "^6.2.0",
+    "react": "^19.2.0",
+    "styling": "tailwind",
+    "stylingVersion": "^3.4.17",
+    "three": "^0.181.2",
+    "usesGeminiApi": false,
+    "geminiApiRole": "none",
+    "keyDependencies": [
+      "@react-three/fiber",
+      "@react-three/drei",
+      "three",
+      "@vitejs/plugin-react",
+      "autoprefixer"
+    ],
+    "hasBackend": false
+  },
+  "quality": {
+    "hasReadme": true,
+    "readmeIsCustom": true,
+    "hasDemoGif": true,
+    "hasScreenshots": true,
+    "screenshotCount": 2,
+    "hasFavicon": true,
+    "hasCustomPackageName": true,
+    "hasScaffoldCruft": false,
+    "buildVerified": false,
+    "lastVerifiedDate": null
+  },
+  "repo": {
+    "github": "https://github.com/AndrewVoirol/ais-rotating-earth.git",
+    "defaultBranch": "main"
+  },
+  "_meta": {
+    "generatedAt": "2026-08-07T02:03:57.850Z",
+    "generatedBy": "ais-fleet/generate-manifests",
+    "needsReview": []
+  }
+}

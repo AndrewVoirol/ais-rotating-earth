@@ -2,6 +2,8 @@
 
 # ais-rotating-earth
 
+> **Part of the [Cartography Featured Project](https://andrewvoirol.com/work/cartography) on [andrewvoirol.com](https://andrewvoirol.com) • [Live Interactive Lab](https://andrewvoirol.com/lab/terragemini)**
+
 A dot-matrix 3D Earth visualization built with custom GLSL shaders. Continents rendered as a grid of white dots, coastlines traced with real-time edge detection, wrapped in a subtle wireframe graticule.
 
 ## Quick Start
